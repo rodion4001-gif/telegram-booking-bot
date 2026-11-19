@@ -13,8 +13,12 @@
 - Отмена записи в любой момент командой `/cancel`
 
 ## Скриншоты
-Выбор времени<img width="803" height="1101" alt="Снимок экрана 2026-11-19 212238" src="https://github.com/user-attachments/assets/3df93537-f9a4-4520-9a40-5545984bf10f" />
-Подтверждение заявки<img width="803" height="642" alt="Снимок экрана 2026-11-19 212308" src="https://github.com/user-attachments/assets/8c6456e6-ca3f-42cf-a7bc-09020c8a387b" />
+
+<img width="801" height="451" alt="Снимок экрана 2026-11-19 212154" src="https://github.com/user-attachments/assets/d74576e9-9dd9-42f3-bb50-5359687d9cbe" />
+
+<img width="803" height="1101" alt="Снимок экрана 2026-11-19 212238" src="https://github.com/user-attachments/assets/3df93537-f9a4-4520-9a40-5545984bf10f" />
+
+<img width="803" height="642" alt="Снимок экрана 2026-11-19 212308" src="https://github.com/user-attachments/assets/8c6456e6-ca3f-42cf-a7bc-09020c8a387b" />
 
 ## Технологии
 
